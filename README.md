@@ -8,7 +8,8 @@ $ dotnet new sln -o [nome da solução]
     
 > obs. 
     
-    -o ou --output (O exemplo a seguir cria um arquivo .sln na pasta especificada, com o mesmo nome da pasta).
+    -o ou --output 
+    (O exemplo a seguir cria um arquivo .sln na pasta especificada, com o mesmo nome da pasta).
 
 - Inserindo dentro do diretório sln um folder src
 
