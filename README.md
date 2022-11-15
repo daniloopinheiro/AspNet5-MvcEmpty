@@ -38,6 +38,6 @@ Eu sou uma index, sendo chamada pela HomeController, estou dentro de uma pasta c
 
 ## Clone e Start da Aplicação
 
-> Para iniciar projeto de forma mais limpa passível, execute o script shell.
+> Para iniciar projeto de forma mais limpa possível, execute o script shell.
 
 $ sh run_app.sh
