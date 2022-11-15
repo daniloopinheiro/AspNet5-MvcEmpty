@@ -42,3 +42,5 @@ Eu sou uma index, sendo chamada pela HomeController, estou dentro de uma pasta c
 > Para iniciar projeto de forma mais limpa possível, execute o script shell.
 
 $ sh run_app.sh
+
+    Projeto finalizado.
